@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp26", "WpfApp26.csproj", "{75F4BD41-DEFD-4DB5-AEB9-202D700C0041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp28", "..\WpfApp28\WpfApp28.csproj", "{03CC8FAD-47D7-4CF5-AF85-A107BD7A7758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp29", "..\WpfApp29\WpfApp29.csproj", "{B150D85E-8F5D-4D1B-A6DD-2A80D83D7407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F4BD41-DEFD-4DB5-AEB9-202D700C0041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F4BD41-DEFD-4DB5-AEB9-202D700C0041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F4BD41-DEFD-4DB5-AEB9-202D700C0041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F4BD41-DEFD-4DB5-AEB9-202D700C0041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CC8FAD-47D7-4CF5-AF85-A107BD7A7758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CC8FAD-47D7-4CF5-AF85-A107BD7A7758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CC8FAD-47D7-4CF5-AF85-A107BD7A7758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CC8FAD-47D7-4CF5-AF85-A107BD7A7758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B150D85E-8F5D-4D1B-A6DD-2A80D83D7407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B150D85E-8F5D-4D1B-A6DD-2A80D83D7407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B150D85E-8F5D-4D1B-A6DD-2A80D83D7407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B150D85E-8F5D-4D1B-A6DD-2A80D83D7407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B058832-D646-4F2A-872D-791F988BDF97}
+	EndGlobalSection
+EndGlobal
