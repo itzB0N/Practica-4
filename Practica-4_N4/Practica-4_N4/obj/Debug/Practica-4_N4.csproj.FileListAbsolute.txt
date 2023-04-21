@@ -1,0 +1,15 @@
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\bin\Debug\Practica-4_N4.exe.config
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\bin\Debug\Practica-4_N4.exe
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\bin\Debug\Practica-4_N4.pdb
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4.csproj.AssemblyReference.cache
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\MainWindow.g.cs
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\App.g.cs
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4_MarkupCompile.cache
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4_MarkupCompile.lref
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\MainWindow.baml
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4.g.resources
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica_4_N4.Properties.Resources.resources
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4.csproj.GenerateResource.cache
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4.csproj.CoreCompileInputs.cache
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4.exe
+C:\Users\asggg\source\repos\Practica-4_N4\Practica-4_N4\obj\Debug\Practica-4_N4.pdb
