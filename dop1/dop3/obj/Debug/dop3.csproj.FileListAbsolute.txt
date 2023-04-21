@@ -1,0 +1,15 @@
+C:\Users\asggg\source\repos\dop1\dop3\bin\Debug\dop3.exe.config
+C:\Users\asggg\source\repos\dop1\dop3\bin\Debug\dop3.exe
+C:\Users\asggg\source\repos\dop1\dop3\bin\Debug\dop3.pdb
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\MainWindow.g.cs
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\App.g.cs
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3_MarkupCompile.cache
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3_MarkupCompile.lref
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\MainWindow.baml
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3.g.resources
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3.Properties.Resources.resources
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3.csproj.GenerateResource.cache
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3.csproj.CoreCompileInputs.cache
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3.exe
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3.pdb
+C:\Users\asggg\source\repos\dop1\dop3\obj\Debug\dop3.csproj.AssemblyReference.cache
