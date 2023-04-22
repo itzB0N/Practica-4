@@ -28,23 +28,34 @@ namespace Practica_4_N6
         private void OK_Click(object sender, RoutedEventArgs e)
         {
             int N = Convert.ToInt32(polA.Text);
-            if(N>0)
+            int f;
+            bool b = true;
+           if(N > 0)
             {
-                while(N>0)
+                while(b == true)
                 {
-                   N =  N % 10;
-                   
+                    f = N % 10;
+                    if (f == 1)
+                    {
+                        Otv.Content = $"true";
+                        b = false;
+                    }
+                    else if(N == 0)
+                    {
+                        Otv.Content = $"false";
+                        b = false;
+                    }
+                    else
+                    {
+                        N /= 10;
+                        b = true;
+                    }
                 }
-                Otv.Content = $"N";
-
             }
             else
             {
                 Otv.Content = $"Число меньше нуля";
-            }
-
-            Otv.Content = $"{N}";
-
+            }     
         }
     }
 }
